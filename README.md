@@ -6,6 +6,7 @@
   - Javascript
   - Common Lisp
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6527f4b9f43a58c923bf18f2?variant=dark)](https://roadmap.sh)
 <!--
 **alexforsale/alexforsale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
