@@ -2,7 +2,10 @@
 
 - 🌱 I’m currently learning:
   - Python
-  - Common Lisp 
+  - Rust
+  - Javascript
+  - Common Lisp
+
 <!--
 **alexforsale/alexforsale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
