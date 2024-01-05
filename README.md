@@ -1,6 +1,6 @@
 <div align="center">
 <h3>Currently working on:</h3>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6527f4b9f43a58c923bf18f2?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6527f4b9f43a58c923bf18f2?variant=dark" alt="roadmap.sh"/></a>
 
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
