@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Currently working on:</h3>
+<h3>Currently Learning:</h3>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6527f4b9f43a58c923bf18f2?variant=dark" alt="roadmap.sh"/></a>
 
 <p align="center">
