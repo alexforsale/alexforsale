@@ -26,6 +26,4 @@
   <img src="https://img.shields.io/github/stars/alexforsale" />
   <img src="https://komarev.com/ghpvc/?username=alexforsale&color=blueviolet" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=alexforsale&show_icons=true&theme=transparent" />
 </div>
