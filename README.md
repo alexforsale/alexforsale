@@ -15,12 +15,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 </p>
 
-<h3>My Stats</h3>
-<p>
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=alexforsale&theme=transparent&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexforsale&theme=transparent&layout=compact" />
-</p>
-
 <p>
   <img src="https://img.shields.io/github/followers/alexforsale" />
   <img src="https://img.shields.io/github/stars/alexforsale" />
